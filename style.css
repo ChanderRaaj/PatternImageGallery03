@@ -1,0 +1,10 @@
+#header{
+    background: url("imgs/background.jpg") center center/cover no-repeat ;
+}
+
+.lead {
+    font-weight: bold !important;
+}
+h5{
+    font-weight: normal !important; 
+}
